@@ -1,0 +1,22 @@
+if app.js is not visible then delete the project
+do not directly run that command 
+
+
+
+1) run this instead :
+
+npm install -g expo-cli
+
+2) after that run :
+
+expo init my-new-project
+
+3) then go to the directory:
+
+cd my-new-project
+
+4) and run the project
+
+
+or
+https://blog.expo.dev/the-new-expo-cli-f4250d8e3421
